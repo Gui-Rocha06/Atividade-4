@@ -99,9 +99,6 @@ nav {
     gap: 1rem;
 }
 
-img {
-    margin: 10px;
-}
 @media (max-widht: 768px) {
     header {
         flex-direction: column;
